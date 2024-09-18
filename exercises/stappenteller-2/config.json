@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "nl": "Stappenteller 2"
+    }
+  },
+  "labels": [
+    "template"
+  ],
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "public"
+}
