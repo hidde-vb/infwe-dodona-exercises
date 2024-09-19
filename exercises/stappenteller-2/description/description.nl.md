@@ -13,7 +13,7 @@ We beginnen met hetzelfde programma uit `Stappenteller` dat berekent hoeveel sta
 De invoer 5342 levert als uitvoer:
 
 ```console?lang=python
-Je dient nog 4658 stappen te zetten.
+Je dient nog 4568 stappen te zetten.
 ```
 
 De invoer 9999 levert als uitvoer:
