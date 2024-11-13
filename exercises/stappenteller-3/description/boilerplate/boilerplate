@@ -1,2 +1,2 @@
-def stappenteller(steps):
+def stappenteller(stappen):
     # implementatie

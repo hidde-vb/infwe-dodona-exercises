@@ -11,9 +11,9 @@ De functie zal geen resultaten returnen, enkel de boodschap printen.
 Mochten we de functie elders gebruiken, zou het programma er als volgt uit zien:
 
 ```python
-nog_te_zetten = int(input())
+stappen = int(input())
 
-stappenteller(nog_te_zetten)
+stappenteller(stappen)
 ```
 
 Als we het programma hierboven uitvoeren en `5432` invoeren krijgen we:

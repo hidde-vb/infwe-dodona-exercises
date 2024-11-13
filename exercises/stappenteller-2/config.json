@@ -1,11 +1,11 @@
 {
   "description": {
     "names": {
-      "nl": "Stappenteller 3: printen in een functie"
+      "nl": "Stappenteller 2"
     }
   },
   "labels": [
-    "template"
+    "if - else"
   ],
   "evaluation": {
     "handler": "tested",
