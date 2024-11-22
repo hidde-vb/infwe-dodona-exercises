@@ -1,11 +1,11 @@
 {
   "description": {
     "names": {
-      "nl": "Stappenteller 3: printen in een functie"
+      "nl": "De math module: PH waarde"
     }
   },
   "labels": [
-    "Functie"
+    "Module", "Math", "Logaritme"
   ],
   "evaluation": {
     "handler": "tested",
