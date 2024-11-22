@@ -5,7 +5,9 @@
     }
   },
   "labels": [
-    "Module", "Math", "Logaritme"
+    "Module",
+    "Math",
+    "Logaritme"
   ],
   "evaluation": {
     "handler": "tested",
@@ -14,7 +16,7 @@
   "programming_language": "python",
   "access": "public",
   "internals": {
-    "token": "Mg2bS4Nh9gGbYZZJYC9dAVJD8Hk6AuycS42rNaVqpYEHkUkBbtWhFbcwMYCI_7Ng",
+    "token": "fSH5NyJt59TgtIv5rcwKtJqAR-kCbxqTPIb6TRik_p5wkMbVGT2SY9gwaa3dd4-7",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
