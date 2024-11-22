@@ -1,23 +1,10 @@
 - tab: "Testen"
   testcases:
-    - expression: "stappenteller(0)"
-      stdout: "Je dient nog 10000 stappen te zetten."
-    - expression: "stappenteller(5432)"
-      stdout: "Je dient nog 4568 stappen te zetten."
-    - expression: "stappenteller(9998)"
-      stdout: "Je dient nog 2 stappen te zetten."
-    - expression: "stappenteller(9999)"
-      stdout: "Je moet nog maar één stap zetten!"
-    - expression: "stappenteller(10000)"
-      stdout: "Je hebt je stappendoel bereikt!" 
-    - expression: "stappenteller(10001)"
-      stdout: "Je hebt je stappendoel bereikt!"
-    - expression: "stappenteller(11345)"
-      stdout: "Je hebt je stappendoel bereikt!"
-
-    - expression: "nog_te_zetten(0)"
-      return: 10000
-    - expression: "nog_te_zetten(9999)"
-      return: 1
-    - expression: "nog_te_zetten(10001)"
-      return: -1
+    - expression: "ph_waarde(.022)"
+      return: 1.66
+    - expression: "ph_waarde(.00155)"
+      return: 2.81
+    - expression: "ph_waarde(.00055)"
+      return: 3.26
+    - expression: "ph_waarde(.0000088)"
+      return: 5.06
