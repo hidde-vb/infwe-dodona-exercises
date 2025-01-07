@@ -1,0 +1,12 @@
+- tab: "Testen"
+  testcases:
+    - stdin: "hallo"
+      stdout: "0: hallo"
+    - stdin: "hallo wereld"
+      stdout: "0: hallo \n1: wereld"
+    - stdin: "hallo wereld ."
+      stdout: "0: hallo \n1: wereld\n2: ."
+    - stdin: "h a l l o"
+      stdout: "0: h \n1: a\n2: l\n3: l\n4: o"
+    - stdin: "1 12 123"
+      stdout: "0: 1 \n1: 12\n2: 123"

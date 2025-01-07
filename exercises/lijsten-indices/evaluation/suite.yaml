@@ -1,0 +1,13 @@
+- tab: "Testen"
+  testcases:
+    - expression: "eerste_plus_derde([1])"
+      return: 0
+    - expression: "eerste_plus_derde([1, 2])"
+      return: 0
+    - expression: "eerste_plus_derde([1, 2, 3])"
+      return: 4
+    - expression: "eerste_plus_derde([1, 2, 3, 4])"
+      return: 4
+    - expression: "eerste_plus_derde([10, 5, 7, 3, 9])"
+      return: 17
+

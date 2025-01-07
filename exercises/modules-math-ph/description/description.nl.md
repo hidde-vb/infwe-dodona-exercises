@@ -16,7 +16,7 @@ waarde = 0.01
 log_tien = math.log(waarde, 10)
 ```
 
-Je kan ook altijd de documentatie van de [math module](https://docs.python.org/3/library/math.html) bekijken, en zoeken naar log.
+Je kan ook altijd de documentatie van de [math module](https://docs.python.org/3/library/math.html) bekijken, en zoeken naar log. Je zal misschien opmerken dat je ook een andere functie kan gebruiken om een logaritme met exponent 10 te berekenen.
 
 ## Gevraagd
 

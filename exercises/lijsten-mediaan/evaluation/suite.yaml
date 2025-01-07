@@ -1,0 +1,17 @@
+- tab: "Testen"
+  testcases:
+    - expression: "mediaan([1])"
+      return: 1
+    - expression: "mediaan([1, 3])"
+      return: 2
+    - expression: "mediaan([1, 10])"
+      return: 5.5
+    - expression: "mediaan([1, 3, 5])"
+      return: 3
+    - expression: "mediaan([1, 3, 5, 7, 9])"
+      return: 5
+    - expression: "mediaan([1, 3, 5, 7, 9, 11])"
+      return: 6.0
+    
+
+

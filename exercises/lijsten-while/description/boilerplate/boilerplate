@@ -1,0 +1,5 @@
+# splits input in lijst van strings, gescheiden door spaties
+# "hallo wereld" -> ["hallo", "wereld"]
+lijst = input().split(" ")
+
+# schrijf hier je code
