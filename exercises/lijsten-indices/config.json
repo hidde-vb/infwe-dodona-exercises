@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "Werken met indices" 
+      "nl": "Werken met indices"
     }
   },
   "labels": [
@@ -14,7 +14,7 @@
   "programming_language": "python",
   "access": "public",
   "internals": {
-    "token": "TyNzb-pUUbTs3xYSAegD2uD6sZZPI2rg7GfvwnXyi2T7f6qpm-NJ4ZWr9y4eJvRd",
+    "token": "ar3bqwvDPKviiDTUqpZUkaGCNkjNUTGa3BgcdRyMwxFTzx5J3jk9kAvDqBFTie8B",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
