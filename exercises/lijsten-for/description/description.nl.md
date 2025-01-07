@@ -17,11 +17,11 @@ Enkele nieuwe zaken die je in deze oefening nodig gaat hebben:
 
 ## Gevraagd
 
-![Temperaturen](image.png){:width="50%"}
+![Temperaturen](media/image.png){:width="50%"}
 
 De temperaturen staan in **fahrenheit**! Dit willen we graag omvormen naar een lijst in celcius.
 
-- De input wordt opgesplits in een lijst van strings. Dit is al voor je geschreven.
+- De input wordt opgsplitst in een lijst van strings. Dit is al voor je geschreven.
 - Vorm alle elementen om naar celcius, en rond af op **1 getal na de komma**.
 - De formule om dit om te vormen kan je op het internet vinden.
 - Maak gebruik van een `for` lus.

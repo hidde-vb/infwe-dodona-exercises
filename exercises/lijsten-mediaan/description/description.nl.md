@@ -10,6 +10,7 @@ De mediaan is een centrummaat die een dataset in twee helften verdeelt indien de
 ## Gevraagd
 
 - Schrijf een functie met naam `mediaan()` die de mediaan van een lijst teruggeeft.
+- Zorg ervoor dat de functie altijd een `float` teruggeeft.
 
 De naam van de functie is al gegeven.
 

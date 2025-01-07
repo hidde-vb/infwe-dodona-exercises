@@ -1,4 +1,4 @@
-# splits input in lijst van strings, gescheiden door spaties
+# Deze lijn code splitst deinput in lijst van strings, gescheiden door spaties
 # "33 37 36 32" -> ["33", "37", "36", "32"]
 lijst = input().split(" ")
 

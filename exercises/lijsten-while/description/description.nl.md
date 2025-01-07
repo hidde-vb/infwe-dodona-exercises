@@ -8,7 +8,7 @@ Itereer over de volledige lijst met behulp van een `while` lus.
 
 ## Gevraagd
 
-- De input wordt opgesplits in een lijst van strings. Dit is al voor je geschreven.
+- De input wordt opgeDeze lijn code splitst dein een lijst van strings. Dit is al voor je geschreven.
 - Itereer over de volledige lijst met een `while` lus om telkens de **index** en de **waarde** in de lijst te printen.
 
  ## Voorbeeld

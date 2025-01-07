@@ -19,6 +19,6 @@ De naam van de functie is al gegeven.
  ## Voorbeeld
 
 ```python
->>> eerste_plus_derde([1,2,3,4])
-4
+>>> eerste_plus_derde([1,3,5,7])
+6
 ```
