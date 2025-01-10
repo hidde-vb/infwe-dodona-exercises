@@ -1,0 +1,16 @@
+- tab: "Testen"
+  testcases:
+    - expression: "gemiddelde([1])"
+      return: 1.0
+    - expression: "gemiddelde([1, 2])"
+      return: 1.5
+    - expression: "gemiddelde([1, 2, 3])"
+      return: 2.0
+    - expression: "gemiddelde([1.0, 2.0, 3.0, 4.0])"
+      return: 2.5
+    - expression: "gemiddelde([13.0,20.0,17.0,14.5])"
+      return: 16.1
+
+    
+
+

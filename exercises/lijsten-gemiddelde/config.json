@@ -1,0 +1,20 @@
+{
+  "description": {
+    "names": {
+      "nl": "Het gemiddelde van een lijst."
+    }
+  },
+  "labels": [
+    "Lijsten"
+  ],
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "public",
+  "internals": {
+    "token": "k2x-Mt2DAI74dRyW6JwBAMNzXavHjMUf6cyw9tRSuNdRie9Z7gkdHR9ZDBDV2jxc",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
